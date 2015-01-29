@@ -10,7 +10,7 @@ $scope.getData = function () {
         });
     };
 
-    $scope.
+    
 
 
 });
